@@ -5,3 +5,6 @@ Wickets
 Fielders
 
 Umpires
+
+Crowds
+Stadium
